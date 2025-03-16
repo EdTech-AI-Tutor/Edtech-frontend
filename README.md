@@ -1,12 +1,29 @@
-# React + Vite
+# EdTech Platform Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of the EdTech Platform, built using React and Vite.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (Recommended: v16 or later)
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/EdTech-AI-Tutor/Edtech-frontend.git
+
+2. Go to Directory:
+   ```sh
+   cd edtech-platform
+ 
+3. Install Dependencies:
+   ```sh
+   npm install
+4. Run Code:
+   ```sh
+   npm run dev
+5. Local Host:
+   ```sh
+   http://localhost:5173/
+        
